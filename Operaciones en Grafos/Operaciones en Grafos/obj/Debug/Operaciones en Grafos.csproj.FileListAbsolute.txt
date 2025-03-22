@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\bin\Debug\Operaciones en Grafos.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\bin\Debug\Operaciones en Grafos.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\bin\Debug\Operaciones en Grafos.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\obj\Debug\Operaciones en Grafos.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\obj\Debug\Operaciones en Grafos.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\obj\Debug\Operaciones en Grafos.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Operaciones en Grafos\Operaciones en Grafos\obj\Debug\Operaciones en Grafos.pdb
